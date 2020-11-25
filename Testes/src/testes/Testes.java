@@ -15,24 +15,7 @@ public class Testes {
      * @param args the command line arguments
      */
     
-    public static void main(String[] args) {
-    /**    int inteiro;
-        float  pontoFlutuante;
-        double pontoflutuante2;
-        char umCaracter;
-        String variosCaracteres;
-        byte numeroIntbyte;
-        short numeroIntshort;
-        long numeroIntlong;
-        boolean boleano;
-        
-        inteiro = 1234567;
-        pontoFlutuante = 10/6;
-        pontoflutuante2 = 123.10;
-        
-        System.out.println("Tipos de dados possiveis no Java:");
-        System.out.println("Dados do tipo float: "+ pontoFlutuante +"\nDados do tipo double: "+pontoflutuante2);*/
-        
+    public static void main(String[] args) {   
         Juros juros = new Juros();
         
         double resultado1;
